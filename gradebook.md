@@ -1,3 +1,3 @@
-# CMPSC301 Gradebook
+# FS101 Gradebook
 
 ## Name:
